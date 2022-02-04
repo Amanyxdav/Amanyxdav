@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="200" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
+<img align="center" alt="Coding" width="500" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
 <h1 align="center">Hi 👋, I'm Aman Yadav</h1>
 <h3 align="center">An aspiring AI and Data Science Undergrad from India| Open Source Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
