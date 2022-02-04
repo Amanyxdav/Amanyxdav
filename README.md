@@ -36,4 +36,4 @@
 
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Amanyxdav&&theme=dracula&locale=en&layout=compact)](https://github.com/amanyxdav)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Amanyxdav&&theme=xcode&locale=en&layout=compact)](https://github.com/amanyxdav)
