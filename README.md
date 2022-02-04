@@ -28,10 +28,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanyxdav&show_icons=true&theme=dark&locale=en&layout=compact" alt="amanyxdav" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanyxdav&show_icons=true&theme=dark&locale=en" alt="amanyxdav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanyxdav&theme=dark" alt="amanyxdav" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanyxdav&show_icons=true&theme=dark&locale=en&layout=compact" alt="amanyxdav" /></p>
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Amanyxdav&&theme=dracula&locale=en&layout=compact)](https://github.com/amanyxdav)
