@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amanyxdav&show_icons=true&theme=dark&locale=en" alt="amanyxdav" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanyxdav&show_icons=true&theme=dark&locale=en&layout=compact" alt="amanyxdav" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanyxdav&show_icons=true&theme=dark&locale=en&layout=compact" alt="amanyxdav" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amanyxdav&theme=dark" alt="amanyxdav" /></p>
 
