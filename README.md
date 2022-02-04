@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanyxdav&theme=dark" alt="amanyxdav" /></p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amanyxdav&&theme=dracula)](https://github.com/amanyxdav)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amanyxdav&&theme=dracula&locale=en&layout=compact)](https://github.com/amanyxdav)
