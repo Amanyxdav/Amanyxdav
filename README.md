@@ -1,7 +1,7 @@
-[![MasterHead](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)]
+<img align="centre" alt="Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <h1 align="center">Hi 👋, I'm Aman Yadav</h1>
 <h3 align="center">An aspiring AI and Data Science Undergrad from India| Open Source Enthusiast</h3>
-<img aign=“right” alt=“Coding” width=“400” src=“https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanyxdav&label=Profile%20views&color=010f13&style=plastic" alt="amanyxdav" /> </p>
 
